@@ -1,6 +1,7 @@
-# Hill Climbing Algorithm for Eight Queens Problem
+## EX NO:05
+## DATE:23.05.2022
+# <p align="center">Hill Climbing Algorithm for Eight Queens Problem
 ## AIM
-
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
 
 ## THEORY
@@ -22,6 +23,10 @@ Display the necessary states and the time taken.
 
 
 ## PROGRAM
+```
+Developed by: R Arunraj
+Register  No: 212220230004
+```
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -198,14 +203,13 @@ plt.show()
 
 
 ## OUTPUT:
-![Capture41](https://user-images.githubusercontent.com/75235747/170327435-d16097af-db33-4203-bab8-56e56d4cfd7f.PNG)
+<img src="https://user-images.githubusercontent.com/75235747/170327435-d16097af-db33-4203-bab8-56e56d4cfd7f.PNG" height="400" width="400" >
 
-![Capture42](https://user-images.githubusercontent.com/75235747/170327442-cf3f3133-e2ce-447d-bf42-55376691e419.PNG)
+<img src="https://user-images.githubusercontent.com/75235747/170327442-cf3f3133-e2ce-447d-bf42-55376691e419.PNG" height="400" width="400" >
 
-![Capture43](https://user-images.githubusercontent.com/75235747/170327453-84da01fa-8b0c-4411-958b-29dc9bf4153e.PNG)
+<img src="https://user-images.githubusercontent.com/75235747/170327453-84da01fa-8b0c-4411-958b-29dc9bf4153e.PNG" height="400" width="400" >
 
-![Capture44](https://user-images.githubusercontent.com/75235747/170327462-12e43618-dd80-4d94-a4ae-e0decf22c3f1.PNG)
-
+<img src="https://user-images.githubusercontent.com/75235747/170327462-12e43618-dd80-4d94-a4ae-e0decf22c3f1.PNG" height="400" width="400" >
 
 
 The larger the state space, the longer it take to complete the search.
